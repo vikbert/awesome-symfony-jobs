@@ -32,3 +32,4 @@ A curated list of companies using Symfony/PHP in production
 
 ## Y - \#
 * [Zalando](https://jobs.zalando.com) | Berlin, Germany
+* [Zitec](https://careers.makeit.software/jobs) | Bucharest/Brasov, Romania
