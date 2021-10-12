@@ -13,6 +13,7 @@ A curated list of companies using Symfony/PHP in production
 
 ## G - I
 * [GetYourGuide](https://careers.getyourguide.com/) | Berlin, Germany
+* [Emag](https://emag.ro) | Bucharest, Romania
 
 ## J - L
 * [LeaseWeb](https://www.leaseweb.com/career) | Amsterdam, The Netherlands
@@ -32,4 +33,4 @@ A curated list of companies using Symfony/PHP in production
 
 ## Y - \#
 * [Zalando](https://jobs.zalando.com) | Berlin, Germany
-* [Zitec](https://careers.makeit.software/jobs) | Bucharest/Brasov, Romania
+* [Zitec](https://careers.makeit.software/jobs) | Bucharest, Romania
