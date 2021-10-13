@@ -14,7 +14,7 @@ A curated list of companies using Symfony/PHP in production
 ## Denmark
 ## Finland
 ## France
-* [Tanfac](http://www.tanfac.com/)) | Paris, France
+* [Tanfac](http://www.tanfac.com/) | Paris, France
 * [Lumy](https://www.Lumy.bzh) | Brest, France
 
 
