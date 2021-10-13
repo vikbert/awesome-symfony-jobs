@@ -10,10 +10,10 @@ A curated list of companies using Symfony/PHP in production
 
 ## D - F
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
+* [Emag](https://emag.ro) | Bucharest, Romania
 
 ## G - I
 * [GetYourGuide](https://careers.getyourguide.com/) | Berlin, Germany
-* [Emag](https://emag.ro) | Bucharest, Romania
 
 ## J - L
 * [LeaseWeb](https://www.leaseweb.com/career) | Amsterdam, The Netherlands 
