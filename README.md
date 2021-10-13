@@ -5,8 +5,7 @@ A curated list of companies using Symfony/PHP in production
 
 ---
 
-# A - G
-<hr/>
+# ▶︎ A - G
 
 ## Austria
 ## Belgium
@@ -36,8 +35,7 @@ A curated list of companies using Symfony/PHP in production
 ##  Georgia
 ##  Greece
 
-# H - N
-<hr/>
+# ▶︎ H - N
 
 ## Hungary
 ## Iceland
@@ -62,8 +60,7 @@ A curated list of companies using Symfony/PHP in production
 * [LeaseWeb](https://www.leaseweb.com/career) | Amsterdam, The Netherlands 
 * [Scribbr](https://scribbr.homerun.co/) | Amsterdam, The Netherlands
 
-# O - T
-<hr/>
+# ▶︎ O - T
 
 ## Poland
 ## Portugal
