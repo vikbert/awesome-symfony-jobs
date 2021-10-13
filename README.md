@@ -82,3 +82,7 @@ A curated list of companies using Symfony/PHP in production
 ## Turkey
 ## Ukraine
 ## United Kingdom (UK)
+
+## licence
+
+MIT [@vikbert](https://vikbert.github.io/)
